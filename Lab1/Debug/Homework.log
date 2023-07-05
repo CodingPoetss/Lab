@@ -1,0 +1,16 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Homework.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Dot.cpp
+  main.cpp
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\setTriangle.h(16,27): warning C4584: “setTriangle”: 基类“Dot”已是“setLine”的基类
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\Dot.h(3): message : 参见“Dot”的声明
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\setLine.h(15): message : 参见“setLine”的声明
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\main.cpp(35,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  setLine.cpp
+  setRectangle.cpp
+  setTriangle.cpp
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\setTriangle.h(16,27): warning C4584: “setTriangle”: 基类“Dot”已是“setLine”的基类
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\Dot.h(3): message : 参见“Dot”的声明
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\setLine.h(15): message : 参见“setLine”的声明
+  正在生成代码...
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\ChangeToFunction.h(26): warning C4715: “ChangeToColor”: 不是所有的控件路径都返回值
+  Homework.vcxproj -> C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\Debug\Lab1.exe

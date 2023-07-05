@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab2\setTriangle.h(18,27): warning C4584: “setTriangle”: 基类“Dot”已是“setLine”的基类
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab2\Dot.h(4): message : 参见“Dot”的声明
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab2\setLine.h(15): message : 参见“setLine”的声明
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab2\Main.cpp(31,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\HONOR 16 pro\source\repos\Lab\Lab2\ChangeToFunction.h(26): warning C4715: “ChangeToColor”: 不是所有的控件路径都返回值
+  Lab2.vcxproj -> C:\Users\HONOR 16 pro\source\repos\Lab\Lab1\Debug\Lab2.exe
